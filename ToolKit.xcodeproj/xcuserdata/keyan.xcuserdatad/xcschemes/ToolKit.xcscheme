@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3A491C7D1DB9D34E00E9E2AA"
-               BuildableName = "ToolsSet.app"
-               BlueprintName = "ToolsSet"
-               ReferencedContainer = "container:ToolsSet.xcodeproj">
+               BlueprintIdentifier = "3A7F01611DAF5E6F003C94E2"
+               BuildableName = "ToolKit.app"
+               BlueprintName = "ToolKit"
+               ReferencedContainer = "container:ToolKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3A491C7D1DB9D34E00E9E2AA"
-            BuildableName = "ToolsSet.app"
-            BlueprintName = "ToolsSet"
-            ReferencedContainer = "container:ToolsSet.xcodeproj">
+            BlueprintIdentifier = "3A7F01611DAF5E6F003C94E2"
+            BuildableName = "ToolKit.app"
+            BlueprintName = "ToolKit"
+            ReferencedContainer = "container:ToolKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3A491C7D1DB9D34E00E9E2AA"
-            BuildableName = "ToolsSet.app"
-            BlueprintName = "ToolsSet"
-            ReferencedContainer = "container:ToolsSet.xcodeproj">
+            BlueprintIdentifier = "3A7F01611DAF5E6F003C94E2"
+            BuildableName = "ToolKit.app"
+            BlueprintName = "ToolKit"
+            ReferencedContainer = "container:ToolKit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3A491C7D1DB9D34E00E9E2AA"
-            BuildableName = "ToolsSet.app"
-            BlueprintName = "ToolsSet"
-            ReferencedContainer = "container:ToolsSet.xcodeproj">
+            BlueprintIdentifier = "3A7F01611DAF5E6F003C94E2"
+            BuildableName = "ToolKit.app"
+            BlueprintName = "ToolKit"
+            ReferencedContainer = "container:ToolKit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
